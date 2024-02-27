@@ -1,2 +1,1 @@
-# Flume
-Repo for work to access Flume data
+# git_practice
